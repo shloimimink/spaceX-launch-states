@@ -10,12 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5701ad87-9402-49e5-9996-e3b8818659ec" name="Default Changelist" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    <list default="true" id="5701ad87-9402-49e5-9996-e3b8818659ec" name="Default Changelist" comment="initial final commit react">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608082306727</updated>
-      <workItem from="1608082308283" duration="14629000" />
+      <workItem from="1608082308283" duration="14981000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1608132879656</created>
@@ -61,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1608132879656</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial final commit react">
+      <created>1608149827908</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608149827908</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial final commit react">
+      <created>1608149854614</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1608149854614</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +90,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="initial final commit react" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial final commit react" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2485" y="284" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1608133956768">
